@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         {
             right=s.nextInt(10)
         }
-        
+
 
         button1.text= left.toString()
         button2.text= right.toString()
