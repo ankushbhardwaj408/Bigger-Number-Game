@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im.ezgif.com/tmp/ezgif-1-9b0b19cab1.gif' width='' alt='Video Walkthrough' />
+<img src='https://im.ezgif.com/tmp/ezgif-1-3b6d0577b5.gif' width='' alt='Video Walkthrough' />
 
 
 
