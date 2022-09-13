@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im.ezgif.com/tmp/ezgif-1-3b6d0577b5.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ankushbhardwaj408/Bigger-Number-Game/blob/main/ezgif-5-cc46d39076.gif' width='' alt='Video Walkthrough' />
 
 
 
